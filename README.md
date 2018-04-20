@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kyle McWilliams
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was about learning how to use Ajax, and add keys to display information from a source onto your website. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kylemcwilliams2.github.io/lesson8_Ajax/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to retrieve an HTTP Source from a web service. 
+2. I learned how to better adjust code to fit the ideas that you want on your website.
+3. I became more farmiliar with the responses on Google Developer Tools. 
